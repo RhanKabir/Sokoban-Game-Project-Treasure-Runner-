@@ -10,4 +10,5 @@ Real-time terminal rendering
 
 # How to run
  make
+ 
  python3 main.py
