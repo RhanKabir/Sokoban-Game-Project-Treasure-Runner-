@@ -3,9 +3,13 @@ The player navigates through a graph of interconnected rooms, pushing obstacles,
 
 # Features
 Multi-room graph structure with player navigation
+
 Obstacle pushing mechanics
+
 Treasure collection
+
 Portal traversal between rooms
+
 Real-time terminal rendering
 
 # How to run
