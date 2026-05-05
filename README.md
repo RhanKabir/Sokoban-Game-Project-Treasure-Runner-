@@ -13,6 +13,9 @@ Portal traversal between rooms
 Real-time terminal rendering
 
 # How to run
+```bash
  make
- 
+```
+ ```bash
  python3 main.py
+ ```
